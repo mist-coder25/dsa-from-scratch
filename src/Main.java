@@ -20,6 +20,5 @@ public class Main {
             prev1 = newFibonacciNumber;
         }
         sc.close();
-
     }
 }
